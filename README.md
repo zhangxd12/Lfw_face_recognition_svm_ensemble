@@ -16,4 +16,7 @@ Usage
 ```python
 python face_recognition.py 
 ``` 
-
+Results
+---------------
+1. eigenface
+![](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/img/figure2.png)
