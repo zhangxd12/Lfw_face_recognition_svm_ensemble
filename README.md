@@ -19,10 +19,10 @@ python face_recognition.py
 Results
 ---------------
 1. eigenface
-![](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/tree/master/img/figure_2.png)
+![image](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/tree/master/img/figure_2.png)
 
 2. recognition results
-![](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/tree/master/img/figure_1.png)
+![image](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/raw/master/img/figure_1.png)
 
 3. comparision between SAMME and SAMME.R
 ![](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/tree/master/img/figure_3.png)
