@@ -4,7 +4,7 @@ LFW face recognition with svm and some ensemble methods,including Adaboost, Rand
 
 Usage
 --------------
-```
-python face_recognition.py //python
+```python
+python face_recognition.py 
 ``` 
 
