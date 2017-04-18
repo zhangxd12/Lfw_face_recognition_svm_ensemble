@@ -18,7 +18,7 @@ python face_recognition.py
 ``` 
 Results
 ---------------
-1. eigenface
+1. eigenface<br>
 ![image](https://github.com/zhangxd12/Lfw_face_recognition_svm_ensemble/raw/master/img/figure_2.png)
 
 2. recognition results
